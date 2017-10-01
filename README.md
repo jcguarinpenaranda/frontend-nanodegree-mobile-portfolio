@@ -4,6 +4,14 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 To get started, check out the repository and inspect the code.
 
+---
+
+### My Optimizations for the first part
+
+Check [OPTIMIZATIONS.md](./OPTIMIZATIONS.md)
+
+---
+
 ### Getting started
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
